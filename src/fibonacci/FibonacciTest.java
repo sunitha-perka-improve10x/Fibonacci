@@ -38,4 +38,8 @@ public class FibonacciTest {
         int secondFibonacci = fiboncci.find(2);
         assertEquals(1,secondFibonacci);
     }
+    @Test
+    public void nothing1(){
+
+    }
 }
